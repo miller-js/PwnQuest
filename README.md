@@ -174,11 +174,6 @@ Following the competition, I distributed a feedback form to participants and rev
 
 \---
 
-\## Acknowledgments
-
-Thank you to the RITSEC Black Team, challenge developers, infrastructure team, scoring team, volunteers, and competitors who helped make PwnQuest possible. The competition was a collaborative effort, and its success was the result of the work contributed by everyone involved. Competition Architecture & Operations
----
-
 ## Acknowledgments
 
 Thank you to the RITSEC Black Team, challenge developers, infrastructure team, scoring team, volunteers, and competitors who helped make PwnQuest possible. The competition was a collaborative effort, and its success was the result of the work contributed by everyone involved.
