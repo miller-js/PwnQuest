@@ -24,6 +24,7 @@ I oversaw the competition from initial planning through execution and post-event
 - Tracked challenge development, deployment readiness, credentials, vulnerabilities, and testing progress.
 - Coordinated challenge integration and deployment to ensure consistency across the competition environment.
 
+### Live Scoreboard
 ![Scoreboard](images/scoreboard.png)
 
 ### Infrastructure & Deployment
