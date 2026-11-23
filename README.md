@@ -8,7 +8,7 @@ As Competition Architect, I led the planning, development, infrastructure deploy
 
 The competition was designed to provide an accessible but technically challenging experience for students of varying skill levels, combining offensive security challenges with real-world infrastructure and operational experience.
 
-![Group Photo](images/groupphoto.jpg)
+![Group Photo](images/groupphoto)
 
 ---
 
@@ -62,7 +62,7 @@ Designed the competition to be approachable for beginners while still challengin
 - Assisted competitors with virtualization and environment setup across different operating systems.
 - Provided hands-on guidance during the competition, covering enumeration, exploitation methodology, and challenge walkthroughs when needed.
 
-![Photo of Live Competition](images/competitionroom.jpg)
+![Photo of Live Competition](images/competitionroom)
 
 ### Documentation & Organization
 
@@ -135,4 +135,4 @@ Following the competition, I distributed a feedback form to participants and rev
 
 Thank you to RITSEC for letting me create a new competition for the club. Thank you to my challenge developers, infrastructure team, scoring team, volunteers, and competitors who helped make PwnQuest possible. The competition was a collaborative effort, and its success was the result of the work contributed by everyone involved. I sincerely believe this competition was a success and hope that it will continue on to be an annual event after I graduate.
 
-![Some Members of Black Team](images/blackteam.jpg)
+![Some Members of Black Team](images/blackteam)
