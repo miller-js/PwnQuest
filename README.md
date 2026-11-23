@@ -95,6 +95,10 @@ Created and maintained documentation throughout the development and execution pr
 
 ---
 
+## Infrastructure Topology
+
+![PwnQuest Infrastructure](images/topology.png)
+
 ## Leadership & Collaboration
 
 Leading a 15-person Black Team required coordinating multiple technical teams while balancing development timelines, infrastructure readiness, and event logistics.
